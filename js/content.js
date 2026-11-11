@@ -24,15 +24,15 @@ const SITE_CONTENT = {
     items: [
       {
         word: "Consistency",
-        text: "We show up and deliver good work the same way every day, not only when it is easy."
+        text: "Maintaining regulr attendance and completing task on time."
       },
       {
         word: "Persistence",
-        text: "We keep going through setbacks until the work is finished and done well."
+        text: "Overcoming challenges and continuously improving."
       },
       {
         word: "Responsibility",
-        text: "We own our actions and follow through on every commitment we make."
+        text: "Meeting  deadlines and fulfilling commitments."
       }
     ]
   },
@@ -53,8 +53,8 @@ const SITE_CONTENT = {
     title: "Our Philosophy",
     intro: "Our reflection on recognizing the good in others.",
     points: [
-      "I feel good recognizing the positive actions of our classmates, because in that state we will not only recognize the negative side, but also the positive side, and because it is not right to think of one person's negative side only.",
-      "This activity teaches us that even by doing simple actions, we can show our values. A simple action like listening, being disciplined, and helping others can show our values. These small actions can inspire others and create positivity.",
+      "We feel good recognizing the positive actions of our classmates, because in that state we will not only recognize the negative side, but also the positive side, and because it is not right to think of one person's negative side only.",
+      "We learned that even by doing simple actions, we can show our values. A simple action like listening, being disciplined, and helping others can show our values. These small actions can inspire others and create positivity.",
       "Recognizing the good values of others inspires us to follow their positive example. When we appreciate their good actions, we become motivated to do good actions like being kind, respecting others, and being responsible, and we become better members of our community."
     ],
     encouragement: "Keep going. Small actions, done well, inspire others."
